@@ -28,3 +28,7 @@ To fill this gap, we propose a new research task, **automated hallucination attr
 
 ## 🚀 Quickstart
 Code and data will be coming soon!
+
+
+## License
+This dataset is under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
