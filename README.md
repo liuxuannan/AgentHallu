@@ -7,9 +7,9 @@
 <!-- <h3 align="center">NeurIPS 2025 Datasets and Benchmarks </h3> -->
 
 <p align="center">
-  <a href="">🌐 Homepage</a> •
+  <a href="https://liuxuannan.github.io/AgentHallu.github.io/">🌐 Homepage</a> •
   <!-- <a href="https://mmvu-benchmark.github.io/#leaderboard">🥇 Leaderboard</a> • -->
-  <a href="">📖 Paper</a> •
+  <a href="https://arxiv.org/abs/2601.06818">📖 Paper</a> •
   <a href="">🤗 Data</a>
 </p>
 
@@ -32,3 +32,15 @@ Code and data will be coming soon!
 
 ## License
 This dataset is under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+
+## ✍️ Citation
+If you use our work and are inspired by our work, please consider cite us:
+```
+@article{liu2026agenthallu,
+  title={AgentHallu: Benchmarking Automated Hallucination Attribution of LLM-based Agents},
+  author={Liu, Xuannan and Yang, Xiao and Li, Zekun and Li, Peipei and He, Ran},
+  journal={arXiv preprint arXiv:2601.06818},
+  year={2026}
+}
+```
